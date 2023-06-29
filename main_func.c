@@ -11,5 +11,7 @@ int main()
 
     printf("%d is my snd fst_var\n",fst_var);
 
+    printf("Hello Boys\n");
+
     return 0;
 }
